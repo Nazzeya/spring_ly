@@ -1,0 +1,59 @@
+.check_info{
+  margin-bottom: 70px;
+}
+
+.check_info p{
+  font-size: 17px;
+  color: #C7C712;
+  margin: 5px 0;
+}
+
+.check_info h3{
+  font-size: 17px;
+  color: #C7C712;
+  text-align: right;
+  margin: 5px 0;
+  margin-left: auto;
+}
+
+.check{
+  border: 1px solid #C7C712;
+}
+
+.order{
+  display: flex;
+}
+
+.sum{
+  position: absolute;
+  width: 300px;
+  bottom: 0px;
+}
+
+.sum p{
+  font-size: 17px;
+  color: white;
+  margin: 5px 0;
+}
+
+.sum h3{
+  font-size: 17px;
+  color: white;
+  text-align: right;
+  margin: 5px 0;
+  margin-left: auto;
+}
+
+.buy_btn{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.buy_btn a{
+  padding: 5px 20px;
+  text-decoration: none;
+  color: white;
+  border: 1px solid #C7C712;
+  font-size: 20px;
+  background-color: #373F0A;
+}

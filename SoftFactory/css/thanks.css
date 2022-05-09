@@ -1,0 +1,45 @@
+.thanks_form{
+  border: 1px solid #F6FF88;
+  padding: 30px 30px 50px 30px;
+  text-align: center;
+}
+
+h1{
+  color: #F6FF88;
+  font-size: 32px;
+}
+
+.info{
+  display: flex;
+  margin: 10px auto;
+  width: 600px;
+}
+
+.info p{
+  margin: 0 5px 0 0;
+  color: #F6FF88;
+  width: 100%;
+  text-align: right;
+  font-size: 20px;
+}
+
+.info span{
+  color: #F6FF88;
+  width: 100%;
+  text-align: left;
+  font-size: 20px;
+}
+
+.back_btn{
+  margin-top: 20px;
+}
+
+.back_btn a{
+  text-decoration: none;
+  color: white;
+  padding: 5px 30px;
+  background-color: #C7C712;
+  border: 1px solid #F6FF88;
+  font-size: 18px;
+  font-weight: bold;
+}

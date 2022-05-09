@@ -1,0 +1,12 @@
+.container{
+  display: flex;
+}
+
+.card{
+  margin-left: 0;
+  margin-right: auto;
+}
+
+.reg_form h2{
+  margin-top: 0;
+}

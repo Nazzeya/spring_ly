@@ -1,0 +1,41 @@
+.footer h3{
+  color: white;
+  margin: 0;
+}
+
+.footer p{
+  color: white;
+}
+
+.contact_infos{
+  display: flex;
+}
+
+.contact_info{
+  min-width: 160px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.apps{
+  display: flex;
+}
+
+.icon{
+  height: 45px;
+  width: 45px;
+  background-color: white;
+  border-radius: 50%;
+  padding: 10px;
+  filter: brightness(0.7);
+  margin: 20px auto 0 auto;
+}
+
+.icon:hover{
+  filter: brightness(1.0);
+}
+
+.icon img{
+  height: 45px;
+  width: 45px;
+}
